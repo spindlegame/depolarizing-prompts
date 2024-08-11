@@ -1,7 +1,7 @@
 from telegram import Bot
 
 # Replace with your bot token
-bot_token = ''7334856578:AAHMIeACt6gd1i7rDUQEN-NgKzKYqFBRMEs'
+bot_token = '7334856578:AAHMIeACt6gd1i7rDUQEN-NgKzKYqFBRMEs'
 
 # Initialize the bot
 bot = Bot(token=bot_token)
